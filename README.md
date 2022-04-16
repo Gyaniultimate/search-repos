@@ -70,6 +70,12 @@
 
 
 
+Attributes: -  
+
+![image](https://user-images.githubusercontent.com/62829009/163685779-cdd8f768-3202-447b-a5b5-e09792a82bda.png)
+
+Functionalities: - 
+![image](https://user-images.githubusercontent.com/62829009/163685786-41b2a665-fa5a-4332-bff7-09aab46b226c.png)
 
 
 
