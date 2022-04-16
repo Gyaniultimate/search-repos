@@ -130,7 +130,7 @@ function App() {
                 <li key={x.id}>
                   <a href={`https://github.com/${x.full_name}`}>
                     <p style={{ display: "flex" }}>
-                      <img src={process.env.PUBLIC_URL + "12.png"} />{" "}
+                      <img src={process.env.PUBLIC_URL + "/12.png"} />{" "}
                       {x.full_name}
                     </p>
                   </a>
